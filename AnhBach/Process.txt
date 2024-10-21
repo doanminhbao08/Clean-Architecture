@@ -1,0 +1,6 @@
+﻿1) Tạo folder Model cho Entities => Tạo file class chứa Entites
+2) Tạo folder Context => Tạo DBContext
+3) Register trong Program.cs: builder.Services.AddDbContext<AnhBachDBContext>();
+
+Note:
+ctor tab tab = tạo constructor nhanh
