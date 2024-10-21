@@ -1,12 +1,13 @@
 using AnhBach.Context;
 using AnhBach.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-// ??ng ký d?ch v? vào DI container
-builder.Services.AddScoped<IMyService, MyService>();
+// Add services to DI container
+builder.Services.AddScoped<IMyService, MyServiceNext>();
 builder.Services.AddControllers();
 
 // Add services to the container.

@@ -18,7 +18,7 @@
 	{
 		public string GetMessage()
 		{
-			return "Hello from MyServiceNext!";
+			return "Hello from MyService Next!";
 		}
 	}
 }

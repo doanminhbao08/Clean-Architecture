@@ -140,3 +140,4 @@ C:\Users\ADMIN\source\repos\AnhBach\AnhBach\bin\Debug\net8.0\Microsoft.OpenApi.d
 C:\Users\ADMIN\source\repos\AnhBach\AnhBach\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ADMIN\source\repos\AnhBach\AnhBach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ADMIN\source\repos\AnhBach\AnhBach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\source\repos\AnhBach\AnhBach\obj\Debug\net8.0\AnhBach.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnhBach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a497aeb23873e2df0fdd4287b21fa75d5b4d0161")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnhBach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnhBach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
